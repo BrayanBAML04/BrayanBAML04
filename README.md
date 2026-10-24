@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**BrayanBAML04/BrayanBAML04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+BrayanBAML04/BrayanBAML04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
